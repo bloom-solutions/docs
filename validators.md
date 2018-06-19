@@ -26,6 +26,16 @@ Node 5 | GCBXBCIKCCVUIHAZ5QFWK6CKSX4AESOJ33IQNUE42BP7J66X23TM6WPF
 Peer |  validator1.stellar.stronghold.co (Australia) <br> validator2.stellar.stronghold.co (Asia) <br> validator3.stellar.stronghold.co (Europe) <br> validator4.stellar.stronghold.co (South America) <br> validator5.stellar.stronghold.co (United States)<br>
 Status | ![Online](https://img.shields.io/badge/status-online-brightgreen.svg)
 
+------
+Name | Bloom Solutions
+-----|--------
+Description | https://bloom.solutions
+Contact | ramon@bloom.solutions (email)
+Node 1 | GDB5CSAUDVBYBFRBTUWDGANT7BK4NW7UEZWDEQGFS4EYAT6APTY3PWHT<br/>(peer core-01.stellar.bloomx.org)<br/>(history `/gsutil cp gs://bloom-stellar-core-history/prod/01/{0} {1}`)
+Node 2 | GCWRN4VKDQIES27TST5FHEKX23JZQZZDXZD4NVZSHIBGJBLOUTF64LMC<br/>(peer core-02.stellar.bloomx.org)<br/>(history `/gsutil cp gs://bloom-stellar-core-history/prod/02/{0} {1}`)
+Node 3 | GCUKUUGE43DB7NXWLBLNYYLXH7UF5JHGEEZEEU3VOHOCXMHMOV3CH6JF<br/>(peer core-03.stellar.bloomx.org)<br/>(history `/gsutil cp gs://bloom-stellar-core-history/prod/03/{0} {1}`)
+Status | ![Online](https://img.shields.io/badge/status-online-brightgreen.svg)
+
 -------------
 Name        | Republic
 ------------|------------
